@@ -1,0 +1,31 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    color:rgb(221, 234, 250);
+    font-weight: bolder;
+    box-shadow: 5px 5px 5px lightskyblue;
+    margin-top: 0px ;
+    width: 100%;
+    font-size: 30px;
+}
+
+h3
+{
+    color: darkblue;
+    font-size: 23px;
+    box-shadow: 5px 5px 5px lightslategrey;
+    line-height: 2;
+    font-weight: bold;
+}
+
+canvas
+{
+    border-radius: 10px;
+    border: 2px solid white;
+    margin-top: 100px;
+    box-shadow: 2px 2px 2px white , 6px 6px 6px slategrey;
+}
